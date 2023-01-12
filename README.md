@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @k3voh1
+- 👋 Hi, I’m Kelvin Muya
 - 👀 I’m interested in networking and software development and engineering
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning SQL, MondoDB, VueJs
 - 💞️ I’m looking to collaborate on any full stack projects
 - 📫 How to reach me ...
 
